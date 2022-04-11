@@ -954,7 +954,7 @@ textarea.input {
 }
 
 .product .product-body .product-rating>i.fa-star {
-  color: #ef233c;
+  color: #e43549;
 }
 
 .product .product-body .product-rating:after {
@@ -983,7 +983,7 @@ textarea.input {
 
 .product .product-body .product-btns>button:hover {
   background-color: #E4E7ED;
-  color: #D10024;
+  color: #d40427;
   border-radius: 50%;
 }
 
@@ -1125,7 +1125,7 @@ textarea.input {
 
 .product-widget .product-body .product-price {
   font-size: 14px;
-  color: #D10024;
+  color: #cd0627;
 }
 
 .product-widget .product-body .product-price .product-old-price {
